@@ -1,5 +1,6 @@
 import time
 import os
+os.system("clear")
 p = "01283494514"
 l = input("\033[0;31m password ≈) ")
 if l == (p) :
