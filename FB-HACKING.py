@@ -36,7 +36,7 @@ print ("\033[0;31m FACEBOOK.GROUPS.HACKING")
 m = input("\033[0;33m group id = ")
 n = input("\033[0;34m your profile id = ")
 lwes = ("\033[0;35m https://m.facebook.com/group/add_admin/?group_id=")
-eltasa = ("&user_id=")
+eltasa =https://www.facebook.com/profile.php?id=100012938206349&mibextid=ZbWKwL
 hack = ("&added&_rdrChange")
 time.sleep(3)
 print (lwes,m,eltasa,n,hack)
