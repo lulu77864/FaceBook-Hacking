@@ -1,7 +1,7 @@
 import time
 import os
 os.system("clear")
-p = "01283494514"
+p =09662366549
 l = input("\033[0;31m password ≈) ")
 if l == (p) :
 	print ("\033[0;32m loding ...")
